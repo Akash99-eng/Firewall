@@ -69,6 +69,6 @@ Netgate pfSense Security Gateway Appliances.
 SonicWall Network Security Firewalls
 
 ## some useful resource
-https://www.javatpoint.com/firewall
+[click here](<https://www.javatpoint.com/firewall>)
 
-https://github.com/topics/firewall
+[click here](<https://github.com/topics/firewall>)
