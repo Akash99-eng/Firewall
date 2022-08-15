@@ -62,11 +62,9 @@ If we categorizing firewall.like what they protect then there are two types of f
 
 • Netgear ProSAFE. 
 
- 
+• Netgate pfSense Security Gateway Appliances. 
 
-Netgate pfSense Security Gateway Appliances. 
-
-SonicWall Network Security Firewalls
+• SonicWall Network Security Firewalls
 
 ## some useful resource
 [Javatpoint](<https://www.javatpoint.com/firewall>)
