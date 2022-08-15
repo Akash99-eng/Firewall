@@ -1,7 +1,7 @@
 
-# Firewalls
+# Firewall
 
-Hello folks.Thanku to giving  me time .it will take 4 to 5 minute to read this so Let's enjoy.
+Hello folks.Thank you to giving  me time .it will take 4 to 5 minutes to read this. so Let's enjoy.
 
 
 
