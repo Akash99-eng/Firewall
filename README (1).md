@@ -15,52 +15,52 @@ The  question is how firewall works ? we know firewall protect our data from att
 Firewalls are important because they have had a huge influence on modern security techniques and are still widely used. Firewalls are used in both corporate and consumer settings. Modern organizations incorporate them into a security information and event management (SIEM) strategy along with other cybersecurity devices.In a single home network, a firewall can filter traffic and alert the user to intrusions. They are especially useful for always-on connections, like Digital Subscriber Line (DSL) or cable modem, because those connection types use static IP addresses.
 ## Types of firewall 
 If we categorizing firewall.like what they protect then there are two types of firewall.
-1-network-based and 2- host-based. 
+(1.) network-based and (2.) host-based. 
 
-Network-based :-Network-based firewalls guard entire networks and are often hardware.
+(1.) Network-based :-Network-based firewalls guard entire networks and are often hardware.
 
-Host-based :-Host-based firewalls guard individual devices – known as hosts – and are often software.
+(2.) Host-based :-Host-based firewalls guard individual devices – known as hosts – and are often software.
 
-When we categorizing by filtering method, the main types are:
+## When we categorizing by filtering method, the main types are:
 
-1 : Packet-filtering firewalls
+• Packet-filtering firewalls
 
-2 : Stateful inspection firewalls
+• Stateful inspection firewalls
 
-3 : Application layer and proxy firewalls
+• Application layer and proxy firewalls
 
-4 : Next generation firewalls (NGFW)
+• Next generation firewalls (NGFW)
 
 ## Advantage of firewall
-Stops Virus Attacks.
+• Stops Virus Attacks.
 
-Prevents Hacking.
+• Prevents Hacking.
 
-Stops Spyware. 
+ • Stops Spyware. 
 
-Promotes Privacy.
+• Promotes Privacy.
 
 ## Drawback of firewall
-User Restriction.
+• User Restriction.
 
-Malware Attacks
+• Malware Attacks
 
- Complex Operations
+• Complex Operations
 
- Performance
+• Performance
 
- Cost
+• Cost
  
 ## Best firewall
-Bitdefender BOX.
+• Bitdefender BOX.
 
-Cisco Firepower.
+• Cisco Firepower.
 
-CUJO AI Smart Internet Security Firewall. 
+• CUJO AI Smart Internet Security Firewall. 
 
-Fortinet FortiGate® 6000F Series. 
+• Fortinet FortiGate® 6000F Series. 
 
-Netgear ProSAFE. 
+• Netgear ProSAFE. 
 
  
 
@@ -69,6 +69,6 @@ Netgate pfSense Security Gateway Appliances.
 SonicWall Network Security Firewalls
 
 ## some useful resource
-[click here](<https://www.javatpoint.com/firewall>)
+[Javatpoint](<https://www.javatpoint.com/firewall>)
 
-[click here](<https://github.com/topics/firewall>)
+[Guthub](<https://github.com/topics/firewall>)
